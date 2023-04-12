@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW_5\Задача 36\bin\Debug\net7.0\Задача 36.exe
+D:\Курсы_программирование\C#\HW_5\Задача 36\bin\Debug\net7.0\Задача 36.deps.json
+D:\Курсы_программирование\C#\HW_5\Задача 36\bin\Debug\net7.0\Задача 36.runtimeconfig.json
+D:\Курсы_программирование\C#\HW_5\Задача 36\bin\Debug\net7.0\Задача 36.dll
+D:\Курсы_программирование\C#\HW_5\Задача 36\bin\Debug\net7.0\Задача 36.pdb
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.dll
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\refint\Задача 36.dll
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.pdb
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\Задача 36.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW_5\Задача 36\obj\Debug\net7.0\ref\Задача 36.dll

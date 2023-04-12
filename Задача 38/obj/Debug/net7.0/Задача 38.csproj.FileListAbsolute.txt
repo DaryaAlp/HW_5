@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW_5\Задача 38\bin\Debug\net7.0\Задача 38.exe
+D:\Курсы_программирование\C#\HW_5\Задача 38\bin\Debug\net7.0\Задача 38.deps.json
+D:\Курсы_программирование\C#\HW_5\Задача 38\bin\Debug\net7.0\Задача 38.runtimeconfig.json
+D:\Курсы_программирование\C#\HW_5\Задача 38\bin\Debug\net7.0\Задача 38.dll
+D:\Курсы_программирование\C#\HW_5\Задача 38\bin\Debug\net7.0\Задача 38.pdb
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.dll
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\refint\Задача 38.dll
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.pdb
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\Задача 38.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW_5\Задача 38\obj\Debug\net7.0\ref\Задача 38.dll
